@@ -56,9 +56,12 @@ const Footer = ({ t }: any) => {
               <Para>
                 {t(`Do you have any question? Feel free to reach out.`)}
               </Para>
-              <a href="mailto:l.qqbadze@gmail.com">
+              <a href="mailto:superbwriter2016@gmail.com">
                 <Chat>{t(`Let's Chat`)}</Chat>
               </a>
+              <Para>
+                {t(`+1 954-836-1090`)}
+              </Para>
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
               <Title>{t("Policy")}</Title>
